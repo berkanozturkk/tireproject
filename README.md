@@ -1,5 +1,5 @@
 # tireproject
-A very amateur and not completed project that I did on my own about car tires and QR Codes.
+A very amateur and not completed project that I did in my 2nd grade about car tires and QR Codes.
 
 Tires have their own special number, type, etc., and I have developed an idea for people to reach these features more easily. 
 
