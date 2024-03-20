@@ -11,15 +11,20 @@ After logging into the application, it will add the tire profile to the profile 
 ## Key Features : 
 
 -Login Page
+
 -Adding tire profile to the logged in user
+
 -QR Code generation for the submitted tire informations
+
 -Database Connection
 
 
 
 ## Technologies Used : 
 -Frontend : HTML/CSS/Javascript
+
 -Backend : .NET(C#)
+
 -Database : MySQL
 
 
