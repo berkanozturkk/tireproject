@@ -1,30 +1,46 @@
-# Tire Project
+### Tire Project
 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-A very amateur and not completed project that I did in my 2nd grade about car tires and QR Codes.
+#### Overview
+This project is an amateur initiative focused on car tires and QR Codes. It allows users to log in, add tire profiles, and generate QR codes containing tire information, which can be printed and used for easy access to tire details.
 
-Tires have their own special number, type, etc., and I have developed an idea for people to reach these features more easily. 
+#### Features
+- **Login Page:** Secure user authentication.
+- **Tire Profile Management:** Add and store tire information.
+- **QR Code Generation:** Create QR codes for tire profiles.
+- **Database Integration:** Connect to a MySQL database for data storage.
 
-After logging into the application, it will add the tire profile to the profile by entering the tire information, and after entering the tire information, a QR code will be generated within the application that contains the tire information and user will be able to print out this qr code and put it in his car so that user can access this information more easily.
+#### Technologies
+- **Frontend:**
+  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Backend:**
+  - ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **Database:**
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Prerequisites
+- .NET SDK
+- MySQL
+- Web browser
 
-## Key Features : 
+#### Getting Started
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/berkanozturkk/tireproject.git
+   ```
+2. **Backend Setup:**
+   - Navigate to the project directory.
+   - Run the .NET application.
+   ```bash
+   dotnet run
+   ```
+3. **Database Setup:**
+   - Configure MySQL database connection.
 
--Login Page
-
--Adding tire profile to the logged in user
-
--QR Code generation for the submitted tire informations
-
--Database Connection
-
-
-
-## Technologies Used : 
--Frontend : HTML/CSS/Javascript
-
--Backend : .NET(C#)
-
--Database : MySQL
-
+4. **Open the application in a web browser:**
+   - Navigate to the appropriate URL (usually `http://localhost:5000`).
 
